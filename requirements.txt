@@ -1,0 +1,8 @@
+# Core libraries
+numpy
+pandas
+tensorflow
+mediapipe
+opencv-python
+requests
+
