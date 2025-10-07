@@ -12,16 +12,16 @@ The detected sign is then sent to an   Express.js backend   in real time.
 ---
 
 📌 Table of Contents
-- [Overview]( -overview)
-- [Features]( -features)
-- [Project Structure]( -project-structure)
-- [Tech Stack]( -tech-stack)
-- [Installation]( -installation)
-- [Usage]( -usage)
-- [Dataset]( -dataset)
-- [Express.js API]( -expressjs-api)
-- [Demo]( -demo)
-- [Contributors]( -contributors)
+- Overview
+- Features
+- Project Structure
+- Tech Stack
+- Installation
+- Usage
+- Dataset
+- Express.js API
+- Demo
+- Contributors
 
 ---
 
