@@ -1,5 +1,3 @@
-Here’s a clean and well-structured   `README.md`   file for your   Sign Language Detection MinProject   👇
-
 ---
 
 ```markdown
